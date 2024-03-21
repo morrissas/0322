@@ -1,0 +1,9 @@
+unstructured
+pypdf
+langchain
+pandas 
+numpy
+langchain-openai
+chromadb
+langchain-pinecone
+pinecone-client
