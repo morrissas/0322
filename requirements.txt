@@ -7,3 +7,4 @@ langchain-openai
 chromadb
 langchain-pinecone
 pinecone-client
+chromadb
